@@ -1,0 +1,125 @@
+"Profile Default"
+
+{
+	"auto-rename-tag.activationOnLanguage": ["*"],
+	"tabnine.experimentalAutoImports": true,
+	"workbench.colorTheme": "Community Material Theme Darker High Contrast",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontFamily": "MesloLGS NF",
+	"editor.fontSize": 16,
+	"files.autoSave": "afterDelay",
+	"editor.formatOnSave": true,
+	"editor.minimap.enabled": false,
+	"editor.wordWrap": "on",
+	"git.enableSmartCommit": true,
+	"terminal.integrated.fontFamily": "MesloLGS NF",
+	"terminal.integrated.fontWeight": "bold",
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.fontSize": 15,
+	"material-icon-theme.folders.color": "#42a5f5",
+	"terminal.integrated.copyOnSelection": true,
+	"cSpell.language": "en,pt,pt_BR",
+	"cSpell.userWords": [
+		"Agua",
+		"alimentacao",
+		"Fundamentos",
+		"Mayk",
+		"memorymusic",
+		"saida"
+	],
+	"prettier.trailingComma": "es5",
+	"prettier.tabWidth": 4,
+	"prettier.singleQuote": true,
+	"prettier.printWidth": 80,
+	"explorer.confirmDelete": false,
+	"prettier.jsxSingleQuote": true,
+	"prettier.useTabs": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"explorer.confirmDragAndDrop": false,
+	"git.openRepositoryInParentFolders": "always"
+}
+
+"============================================================"
+
+"Profile Front-End"
+
+{
+	"auto-rename-tag.activationOnLanguage": ["*"],
+	"tabnine.experimentalAutoImports": true,
+	"workbench.colorTheme": "Community Material Theme Darker High Contrast",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontFamily": "MesloLGS NF",
+	"editor.fontSize": 16,
+	"files.autoSave": "afterDelay",
+	"editor.formatOnSave": true,
+	"editor.minimap.enabled": false,
+	"editor.wordWrap": "on",
+	"git.enableSmartCommit": true,
+	"terminal.integrated.fontFamily": "MesloLGS NF",
+	"terminal.integrated.fontWeight": "bold",
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.fontSize": 15,
+	"material-icon-theme.folders.color": "#42a5f5",
+	"terminal.integrated.copyOnSelection": true,
+	"cSpell.language": "en,pt,pt_BR",
+	"cSpell.userWords": [
+		"Agua",
+		"alimentacao",
+		"Fundamentos",
+		"Mayk",
+		"memorymusic",
+		"saida"
+	],
+	"prettier.trailingComma": "es5",
+	"prettier.tabWidth": 4,
+	"prettier.singleQuote": true,
+	"prettier.printWidth": 80,
+	"explorer.confirmDelete": false,
+	"prettier.jsxSingleQuote": true,
+	"prettier.useTabs": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"explorer.confirmDragAndDrop": false,
+	"git.openRepositoryInParentFolders": "always"
+}
+
+"================================================================"
+
+"Profile Back-End"
+{
+	"auto-rename-tag.activationOnLanguage": ["*"],
+	"tabnine.experimentalAutoImports": true,
+	"workbench.colorTheme": "Community Material Theme Darker High Contrast",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontFamily": "MesloLGS NF",
+	"editor.fontSize": 16,
+	"files.autoSave": "afterDelay",
+	"editor.formatOnSave": true,
+	"editor.minimap.enabled": false,
+	"editor.wordWrap": "on",
+	"git.enableSmartCommit": true,
+	"terminal.integrated.fontFamily": "MesloLGS NF",
+	"terminal.integrated.fontWeight": "bold",
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.fontSize": 15,
+	"material-icon-theme.folders.color": "#42a5f5",
+	"terminal.integrated.copyOnSelection": true,
+	"cSpell.language": "en,pt,pt_BR",
+	"cSpell.userWords": [
+		"Agua",
+		"alimentacao",
+		"Fundamentos",
+		"Mayk",
+		"memorymusic",
+		"saida"
+	],
+	"prettier.trailingComma": "es5",
+	"prettier.tabWidth": 4,
+	"prettier.singleQuote": true,
+	"prettier.printWidth": 80,
+	"explorer.confirmDelete": false,
+	"prettier.jsxSingleQuote": true,
+	"prettier.useTabs": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"explorer.confirmDragAndDrop": false,
+	"git.openRepositoryInParentFolders": "always"
+}
